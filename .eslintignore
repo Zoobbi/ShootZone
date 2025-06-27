@@ -1,0 +1,10 @@
+# compiled output
+node_modules
+node
+build
+target
+
+# sensetive
+*.env*
+*craco.config.js*
+*babel-plugin-macros.config.js*

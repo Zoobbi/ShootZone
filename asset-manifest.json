@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShootZone/static/css/main.070a11fb.css",
+    "main.js": "/ShootZone/static/js/main.5bb58855.js",
+    "static/js/453.425ebe74.chunk.js": "/ShootZone/static/js/453.425ebe74.chunk.js",
+    "index.html": "/ShootZone/index.html",
+    "main.070a11fb.css.map": "/ShootZone/static/css/main.070a11fb.css.map",
+    "main.5bb58855.js.map": "/ShootZone/static/js/main.5bb58855.js.map",
+    "453.425ebe74.chunk.js.map": "/ShootZone/static/js/453.425ebe74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.070a11fb.css",
+    "static/js/main.5bb58855.js"
+  ]
+}
