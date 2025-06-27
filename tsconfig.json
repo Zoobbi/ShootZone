@@ -1,5 +1,15 @@
 {
   "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@app/*": ["*"],
+      "@app/components/*": ["./components/*"],
+      "@app/common/types/*": ["./common/types/*"],
+      "@app/common/grid": ["./common/grid"],
+      "@app/common/*": ["common/*"],
+      "@app/tokens/*": ["./common/tokens/*"],
+      "@app/utils/*": ["./utils/*"],
+    },
     "target": "es5",
     "lib": [
       "dom",

@@ -1,0 +1,1 @@
+export { teamsSliceReducer } from "./teamsSlice";

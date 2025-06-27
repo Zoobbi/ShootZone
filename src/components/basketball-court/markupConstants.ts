@@ -1,0 +1,15 @@
+// data in metres
+export const COURT_WIDTH = 28;
+export const COURT_HEIGHT = 15;
+export const LINE_HEIGHT = 0.05;
+export const CENTRAL_CIRCLE_RADIUS = 1.8;
+export const THREE_SECOND_ZONE_WIDTH = 5.85;
+export const THREE_SECOND_ZONE_HEIGHT = 4.95;
+export const BACKBOARD_WIDTH = 1.8;
+export const HOOP_DIAMETER = 0.46;
+export const ATTACK_FOUL_HALF_CIRCLE_RADIUS = 1.25;
+export const FREE_THROW_HALF_CIRCLE_RADIUS = 1.8;
+export const THREE_POINTS_LINE_WIDTH = 2.99;
+export const WIDTH_BETWEEN_OUT_AND_THREE_POINTS_LINE = 0.9;
+export const THREE_POINTS_LINE_HALF_CIRCLE_RADIUS = 6.67;
+export const THREE_POINTS_LINE_HALF_CIRCLE_RADIUS_WITHOUT_LINE = 6.65;
